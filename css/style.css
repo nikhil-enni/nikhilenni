@@ -9741,3 +9741,12 @@ textarea.form-control {
       font-size: 18px;
       line-height: 1.6;
   }
+
+  .profile-img {
+    width: 100%; /* Adjust this as needed */
+    max-width: 150px; /* Adjust this as needed */
+    height: auto;
+    border-radius: 50%; /* Optional: to make the image circular */
+    display: block;
+    margin: auto;
+}
